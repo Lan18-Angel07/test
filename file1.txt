@@ -4,4 +4,8 @@ This is a new line in file1.txt
 
 Modifying file1.txt in branchA
 
+<<<<<<< HEAD
 Modifying file1.txt in main
+=======
+Modifying file1.txt in branchA (2)
+>>>>>>> branchA
