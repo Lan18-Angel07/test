@@ -3,3 +3,5 @@ This is file1.txt created locally
 This is a new line in file1.txt
 
 Modifying file1.txt in branchA
+
+Modifying file1.txt in branchA (2)
