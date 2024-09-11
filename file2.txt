@@ -1,3 +1,5 @@
 This is file2.txt created locally
 
 Modifying file2.txt in branchB
+
+Modifying file2.txt in branchB (2)
